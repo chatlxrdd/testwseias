@@ -1,0 +1,16 @@
+* {
+    background-color: aqua;
+}
+h1 {
+    font-size: 150px;
+}
+.square {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+.square_content {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
